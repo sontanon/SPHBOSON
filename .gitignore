@@ -1,0 +1,12 @@
+#.vscode/c_cpp_properties.json
+obj/*.o
+#.vscode/settings.json
+VSC_Workspace
+SPHBOSON
+out*/*
+*.json
+*.cfg
+*.par
+*.ipynb
+.ipynb_checkpoints/*
+*.swp
