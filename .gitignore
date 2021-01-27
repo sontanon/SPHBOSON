@@ -10,3 +10,5 @@ out*/*
 *.ipynb
 .ipynb_checkpoints/*
 *.swp
+Mathematica/
+l=0*
